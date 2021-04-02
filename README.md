@@ -1,7 +1,6 @@
 # SY402-Lab08
-// Name: Yusuf Ahmad Azani
-// Section: 4341
-// Assignment: Lab 08
+( Yusuf Ahmad Azani )
+( Section 4341 )
 
 The hash.py program I have created is stored in "/var/www/html/lab08" and will produce the hashed output into "lab08.csv". 
 Upon execution, the program can run based on two scenarios:
